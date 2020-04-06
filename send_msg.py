@@ -2,7 +2,7 @@ from twilio.rest import Client
 
 my_cell = "your phone number"
 my_twilio = "Your twilio number"
-message = "I want mac book air"
+message = "Your message"
 
 account_sid = "your account sid on twilio"
 auth_token = "your auth_token on twilio"
